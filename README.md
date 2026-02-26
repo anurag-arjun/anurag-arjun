@@ -10,7 +10,7 @@ For the last few months, I've been building almost entirely with AI coding agent
 |---------|------|--------|
 | [Avail](https://github.com/availproject) | Nexus (cross-chain abstraction protocol) + DA layer — scaling access to the onchain economy | Active (with team) |
 | [trustbook](https://github.com/anurag-arjun/trustbook) | P2P address book for crypto — prevents address poisoning with verified contacts and signed change requests | Published |
-| [cmux-linux](https://github.com/anurag-arjun/cmux-linux) | Linux terminal multiplexer — Ghostty fork with workspaces, notifications, and socket API | 🚧 Building |
+| [cove](https://github.com/anurag-arjun/cove) | Linux terminal multiplexer — Ghostty fork with workspaces, notifications, and socket API | 🚧 Building |
 | [webmcp-gen](https://github.com/anurag-arjun/webmcp-gen) | OpenAPI → WebMCP tool definitions. First developer toolkit for the new W3C WebMCP spec | 🚧 Building |
 | [agent-vault](https://github.com/anurag-arjun/agent-vault) | Dead-simple CLI for agent credential management | 🚧 Building |
 | [agile-distributor](https://github.com/anurag-arjun/agile-distributor) | Decomposes plans into distributable task work packets for parallel agent execution | Published |
