@@ -1,6 +1,6 @@
 # Hey, I'm Anurag 👋
 
-Building [Avail](https://availproject.org) — the unification layer for web3. Chain abstraction + data availability so developers can build once and reach users across every chain. Before that, cofounded [Polygon](https://polygon.technology) and built Polygon PoS, the Plasma bridge, Dagger (real-time Ethereum events), and the early SDK infrastructure.
+Building [Avail](https://availproject.org) — the unification layer for web3. Chain abstraction + data availability so developers can build once and reach users across every chain. Before that, cofounded [Polygon](https://polygon.technology) and built Polygon PoS, amongst many other things.
 
 For the last few months, I've been building almost entirely with AI coding agents — running multiple projects in parallel, solo. This is where I share that work.
 
