@@ -17,7 +17,7 @@ For the last few months, I've been building almost entirely with AI coding agent
 
 ## How I work
 
-- **Daily driver:** [pi](https://github.com/mariozechner/pi-coding-agent) coding agent on Linux
+- **Daily driver:** [pi](https://pi.dev/) coding agent on Linux
 - **Models:** Claude, Kimi, MiniMax — whatever fits the task
 - **Style:** Write the spec first, then build with agents
 
